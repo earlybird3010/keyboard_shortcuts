@@ -1,3 +1,4 @@
 1. Crl + Shift + J: open the developer console
 2. Ctrl + Alt + T: open a new terminal from main window
 3. Ctrl + `: open a terminal in VSCode
+4. fn + f12: open the developer console
