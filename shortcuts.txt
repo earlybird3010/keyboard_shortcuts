@@ -7,3 +7,4 @@ between VSCode and Google Chrome
 6. xset -r ASCII code: disable the culprit key from automatically
 pressing down when switching between tabs
 7. xev -event keyboard: show the keycode of the key being held in terminal
+8. Window + left arrow key / right arrow key: split the screen in half
