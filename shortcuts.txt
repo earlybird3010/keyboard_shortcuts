@@ -2,3 +2,8 @@
 2. Ctrl + Alt + T: open a new terminal from main window
 3. Ctrl + `: open a terminal in VSCode
 4. fn + f12: open the developer console
+5. xset r off: Fix key automatically pressed down when switching
+between VSCode and Google Chrome
+6. xset -r ASCII code: disable the culprit key from automatically
+pressing down when switching between tabs
+7. xev -event keyboard: show the keycode of the key being held in terminal
